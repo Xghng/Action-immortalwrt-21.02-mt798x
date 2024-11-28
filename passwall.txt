@@ -1,5 +1,5 @@
 H大源码编译路由器固件
 immortalwrt21.02（闭源MTK驱动。
 +passwall+frc+opnvpn+
-默认IP地址：192.168.6.254
+默认IP地址：192.168.6.1
 密码：password

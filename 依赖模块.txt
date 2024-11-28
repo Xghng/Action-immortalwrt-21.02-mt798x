@@ -1,0 +1,84 @@
+####################################
+Configuring libev.
+Configuring libsodium.
+Configuring libudns.
+Configuring shadowsocksr-libev-ssr-check.
+Configuring chinadns-ng.
+Configuring coreutils.
+Configuring coreutils-base64.
+Configuring shadowsocks-rust-ssserver.
+Configuring dns2socks.
+Configuring dns2tcp.
+Configuring luci-lib-ipkg.
+Configuring lua-neturl.
+Configuring microsocks.
+Configuring tcping.
+Configuring libnghttp2-14.
+Configuring libcurl4.
+Configuring curl.
+Configuring xray-core.
+Configuring shadowsocks-rust-sslocal.
+Configuring simple-obfs-client.
+Configuring shadowsocksr-libev-ssr-local.
+Configuring shadowsocksr-libev-ssr-redir.
+Configuring luci-app-ssr-plus.
+Configuring luci-i18n-ssr-plus-zh-cn.
+#########################################
+
+
+#文件传输
+luci-app-filetransfer
+luci-lib-fs
+luci-i18n-filetransfer-zh-cn
+Configuring luci-lib-fs.
+Configuring luci-app-filetransfer.
+#########################################
+
+
+luci-i18n-upnp-zh-cn
+luci-app-upnp
+miniupnpd
+#########################################
+
+
+luci-i18n-vlmcsd-zh-cn
+luci-app-vlmcsd
+vlmcsd
+#########################################
+
+luci-i18n-ddns-zh-cn
+luci-app-ddns
+luci-lib-ipkg
+ddns-scripts
+#########################################
+
+Configuring libltdl7.
+Configuring liblua5.3-5.3.
+Configuring libreadline8.
+Configuring haproxy.
+Configuring ipt2socks.
+Configuring boost.
+Configuring boost-system.
+Configuring boost-program_options.
+Configuring trojan-plus.
+Configuring shadowsocks-libev-config.
+Configuring libmbedtls12.
+Configuring v2ray-plugin.
+Configuring unzip.
+Configuring shadowsocks-libev-ss-local.
+Configuring libcares.
+Configuring shadowsocks-libev-ss-redir.
+Configuring shadowsocks-libev-ss-server.
+Configuring v2ray-core.
+Configuring coreutils-nohup.
+Configuring luci-app-passwall.
+Configuring luci-i18n-passwall-zh-cn.
+
+2024-11-28 16:06:40: iptables透明代理基础依赖 iptables-mod-tproxy 未安装...
+2024-11-28 16:06:40: iptables透明代理基础依赖 iptables-mod-iprange 未安装...
+2024-11-28 16:06:40: iptables透明代理基础依赖 iptables-mod-conntrack-extra 未安装...
+2024-11-28 16:06:40: iptables透明代理基础依赖 kmod-ipt-nat 未安装...
+2024-11-28 16:06:40: 运行完成！
+
+2024-11-28 16:20:42: 清空并关闭相关程序和缓存完成。
+2024-11-28 16:20:43: 运行完成！

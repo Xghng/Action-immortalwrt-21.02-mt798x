@@ -1,31 +1,3 @@
-####################################
-Configuring libev.
-Configuring libsodium.
-Configuring libudns.
-Configuring shadowsocksr-libev-ssr-check.
-Configuring chinadns-ng.
-Configuring coreutils.
-Configuring coreutils-base64.
-Configuring shadowsocks-rust-ssserver.
-Configuring dns2socks.
-Configuring dns2tcp.
-Configuring luci-lib-ipkg.
-Configuring lua-neturl.
-Configuring microsocks.
-Configuring tcping.
-Configuring libnghttp2-14.
-Configuring libcurl4.
-Configuring curl.
-Configuring xray-core.
-Configuring shadowsocks-rust-sslocal.
-Configuring simple-obfs-client.
-Configuring shadowsocksr-libev-ssr-local.
-Configuring shadowsocksr-libev-ssr-redir.
-Configuring luci-app-ssr-plus.
-Configuring luci-i18n-ssr-plus-zh-cn.
-#########################################
-
-
 #文件传输
 luci-app-filetransfer
 luci-lib-fs

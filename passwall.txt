@@ -1,5 +1,5 @@
 H大源码编译路由器固件
-immortalwrt21.02（闭源MTK驱动。
-+passwall+frc+opnvpn+
+immortalwrt21.02 MTK7981-360T7。
+添加插件有：+passwall+frc客户端+opnvpn服务器端+autoreboot定时重启+eqos网速控制
 默认IP地址：192.168.6.1
-密码：password
+密码：

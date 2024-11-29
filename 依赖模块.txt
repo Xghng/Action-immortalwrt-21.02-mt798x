@@ -37,10 +37,10 @@ Configuring shadowsocks-libev-config.
 Configuring libmbedtls12.
 Configuring v2ray-plugin.
 Configuring unzip.
-Configuring shadowsocks-libev-ss-local.
+Configuring shadowsocks-libev-ss-local=y
 Configuring libcares.
-Configuring shadowsocks-libev-ss-redir.
-Configuring shadowsocks-libev-ss-server.
+Configuring shadowsocks-libev-ss-redir=y
+Configuring shadowsocks-libev-ss-server=y
 Configuring v2ray-core.
 Configuring coreutils-nohup.
 Configuring luci-app-passwall.

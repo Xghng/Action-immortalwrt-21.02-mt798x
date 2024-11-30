@@ -1,7 +1,7 @@
 H大源码编译路由器固件
 immortalwrt21.02 MTK7981-360T7。
-添加插件有：+luci-app-passwall+luci-app-frc客户端+luci-app-opnvpn-server服务器端
-添加插件有：+luci-app-autoreboot定时重启+luci-app-eqos网速控制鸡的+luci-app-wrtbwmon流量监控
-luci-app-turboacc
+含模块：+luci-app-passwall+luci-app-frc客户端+luci-app-opnvpn-server服务器端
+含模块：+luci-app-autoreboot定时重启+luci-app-eqos网速控制鸡的+luci-app-wrtbwmon流量监控
+含模块：luci-app-turboacc
 默认IP地址：192.168.6.1
 密码：

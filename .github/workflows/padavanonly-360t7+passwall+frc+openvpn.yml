@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Build 360t7+passwall+frc+openvpn
+name: Build padavanonly-360t7+passwall+frc+openvpn
 
 on:
   repository_dispatch:

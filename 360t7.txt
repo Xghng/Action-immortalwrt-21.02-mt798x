@@ -1,6 +1,6 @@
 编译360T7路由器固件
 immortalwrt21.02 MTK7981-360T7。
-含模块：luci-app-passwall | luci-app-frc客户端 | opnvpn-server服务器端
+含模块：luci-app-frc客户端 | opnvpn-server服务器端
 含模块：网速控制eqos-mtk | 定时重启autoreboot | wrtbwmon流量监控
 含模块：
 默认IP地址：192.168.6.1

@@ -17,6 +17,3 @@
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 # echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages' >>feeds.conf.default
-echo 'src-git homeproxy https://github.com/immortalwrt/homeproxy' >>feeds.conf.default
-echo 'src-git qosv4 https://github.com/KeaneWang/luci-app-qosv4' >>feeds.conf.default
-echo 'src-git qosmate https://github.com/hudra0/luci-app-qosmate' >>feeds.conf.default

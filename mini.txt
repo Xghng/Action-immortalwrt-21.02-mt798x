@@ -1,0 +1,7 @@
+padavanonly大源码编译路由器固件
+padavanonly-immortalwrt21.02 MTK7981-360T7。极简ap版
+含模块：luci-app-autoreboot定时重启
+含模块：luci-app-eqos-mtk网速控制
+含模块：luci-app-turboacc网络加速
+默认IP地址：192.168.6.1
+密码：
